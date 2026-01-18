@@ -91,6 +91,16 @@ assets:
     - name: msg/sys.yml
       language: en
 #Menus PC
+- name: menu/us/title.2ld
+  multi:
+  - name: menu/gr/title.2ld
+  - name: menu/it/title.2ld
+  - name: menu/sp/title.2ld
+  - name: menu/uk/title.2ld
+  - name: menu/fr/title.2ld
+  method: copy
+  source:
+  - name: menu/title.2ld
 - name: remastered/menu/us/title.2ld/-2.png
   multi:
   - name: remastered/menu/gr/title.2ld/-2.png
