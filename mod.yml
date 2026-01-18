@@ -90,3 +90,64 @@ assets:
     source:
     - name: msg/sys.yml
       language: en
+#Menus PC
+- name: remastered/menu/us/title.2ld/-2.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-2.png
+  - name: remastered/menu/it/title.2ld/-2.png
+  - name: remastered/menu/sp/title.2ld/-2.png
+  - name: remastered/menu/uk/title.2ld/-2.png
+  - name: remastered/menu/fr/title.2ld/-2.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-2.png
+- name: remastered/menu/us/title.2ld/-3.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-3.png
+  - name: remastered/menu/it/title.2ld/-3.png
+  - name: remastered/menu/sp/title.2ld/-3.png
+  - name: remastered/menu/uk/title.2ld/-3.png
+  - name: remastered/menu/fr/title.2ld/-3.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-3.png
+- name: remastered/menu/us/title.2ld/-4.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-4.png
+  - name: remastered/menu/it/title.2ld/-4.png
+  - name: remastered/menu/sp/title.2ld/-4.png
+  - name: remastered/menu/uk/title.2ld/-4.png
+  - name: remastered/menu/fr/title.2ld/-4.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-4.png
+- name: remastered/menu/us/title.2ld/-5.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-5.png
+  - name: remastered/menu/it/title.2ld/-5.png
+  - name: remastered/menu/sp/title.2ld/-5.png
+  - name: remastered/menu/uk/title.2ld/-5.png
+  - name: remastered/menu/fr/title.2ld/-5.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-5.png
+- name: remastered/menu/us/title.2ld/-6.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-6.png
+  - name: remastered/menu/it/title.2ld/-6.png
+  - name: remastered/menu/sp/title.2ld/-6.png
+  - name: remastered/menu/uk/title.2ld/-6.png
+  - name: remastered/menu/fr/title.2ld/-6.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-6.png
+- name: remastered/menu/us/title.2ld/-7.png
+  multi:
+  - name: remastered/menu/gr/title.2ld/-7.png
+  - name: remastered/menu/it/title.2ld/-7.png
+  - name: remastered/menu/sp/title.2ld/-7.png
+  - name: remastered/menu/uk/title.2ld/-7.png
+  - name: remastered/menu/fr/title.2ld/-7.png
+  method: copy
+  source:
+  - name: remastered/menu/title.2ld/-7.png
