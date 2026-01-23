@@ -202,22 +202,27 @@ assets:
   - name: remastered/obj/P_EX100_CA.a.de/-8.dds
   - name: remastered/obj/P_EX100_CA.a.es/-8.dds
   - name: remastered/obj/P_EX100_CA.a.bg/-8.dds
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/-4.dds
   - name: remastered/obj/P_EX100_CA_BTLF.a.jp/-4.dds
   - name: remastered/obj/P_EX100_CA_BTLF.a.de/-4.dds
   - name: remastered/obj/P_EX100_CA_BTLF.a.es/-4.dds
   - name: remastered/obj/P_EX100_CA_BTLF.a.bg/-4.dds
+  - name: remastered/obj/P_EX100_CA_MAGF.a.us/-2.dds
   - name: remastered/obj/P_EX100_CA_MAGF.a.jp/-2.dds
   - name: remastered/obj/P_EX100_CA_MAGF.a.de/-2.dds
   - name: remastered/obj/P_EX100_CA_MAGF.a.es/-2.dds
   - name: remastered/obj/P_EX100_CA_MAGF.a.bg/-2.dds
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-9.dds
   - name: remastered/obj/P_EX100_CA_KH1F.a.jp/-9.dds
   - name: remastered/obj/P_EX100_CA_KH1F.a.de/-9.dds
   - name: remastered/obj/P_EX100_CA_KH1F.a.es/-9.dds
   - name: remastered/obj/P_EX100_CA_KH1F.a.bg/-9.dds
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-5.dds
   - name: remastered/obj/P_EX100_CA_TRIF.a.jp/-5.dds
   - name: remastered/obj/P_EX100_CA_TRIF.a.de/-5.dds
   - name: remastered/obj/P_EX100_CA_TRIF.a.es/-5.dds
   - name: remastered/obj/P_EX100_CA_TRIF.a.bg/-5.dds
+  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-3.dds
   - name: remastered/obj/P_EX100_CA_HTLF.a.jp/-3.dds
   - name: remastered/obj/P_EX100_CA_HTLF.a.de/-3.dds
   - name: remastered/obj/P_EX100_CA_HTLF.a.es/-3.dds
