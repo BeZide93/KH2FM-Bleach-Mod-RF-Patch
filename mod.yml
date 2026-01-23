@@ -229,7 +229,7 @@ assets:
   - name: remastered/obj/P_EX100_CA_HTLF.a.bg/-3.dds
   method: copy
   source:
-  - name: remastered/obj/P_EX100.a.us/-8.dds
+  - name: remastered/objects/piratesora/P_EX100.a.us/-8.dds
 - name: remastered/obj/P_EX100_CA_ULTF.a.us/-10.dds
   multi:
   - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-10.dds
@@ -239,7 +239,7 @@ assets:
   package: kh2_sixth
   method: copy
   source:
-  - name: remastered/obj/P_EX100.a.us/-8.dds
+  - name: remastered/objects/piratesora/P_EX100.a.us/-8.dds
 
 - name: remastered/menu/shopface/p_ca100.bin/-0.png
   method: copy
