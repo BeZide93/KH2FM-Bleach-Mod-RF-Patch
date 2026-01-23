@@ -196,6 +196,76 @@ assets:
 
 # === Pirate Sora === #
 
+- name: remastered/obj/P_EX100_CA.a.us/-8.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA.a.jp/-8.dds
+  - name: remastered/obj/P_EX100_CA.a.de/-8.dds
+  - name: remastered/obj/P_EX100_CA.a.es/-8.dds
+  - name: remastered/obj/P_EX100_CA.a.bg/-8.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA.a.us/-8.dds
+- name: remastered/obj/P_EX100_CA_BTLF.a.us/-4.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.jp/-4.dds
+  - name: remastered/obj/P_EX100_CA_BTLF.a.de/-4.dds
+  - name: remastered/obj/P_EX100_CA_BTLF.a.es/-4.dds
+  - name: remastered/obj/P_EX100_CA_BTLF.a.bg/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/-4.dds
+- name: remastered/obj/P_EX100_CA_MAGF.a.us/-2.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_MAGF.a.jp/-2.dds
+  - name: remastered/obj/P_EX100_CA_MAGF.a.de/-2.dds
+  - name: remastered/obj/P_EX100_CA_MAGF.a.es/-2.dds
+  - name: remastered/obj/P_EX100_CA_MAGF.a.bg/-2.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_MAGF.a.us/-2.dds
+- name: remastered/obj/P_EX100_CA_KH1F.a.us/-9.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.jp/-9.dds
+  - name: remastered/obj/P_EX100_CA_KH1F.a.de/-9.dds
+  - name: remastered/obj/P_EX100_CA_KH1F.a.es/-9.dds
+  - name: remastered/obj/P_EX100_CA_KH1F.a.bg/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_KH1F.a.us/-9.dds
+- name: remastered/obj/P_EX100_CA_TRIF.a.us/-5.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.jp/-5.dds
+  - name: remastered/obj/P_EX100_CA_TRIF.a.de/-5.dds
+  - name: remastered/obj/P_EX100_CA_TRIF.a.es/-5.dds
+  - name: remastered/obj/P_EX100_CA_TRIF.a.bg/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_TRIF.a.us/-5.dds
+- name: remastered/obj/P_EX100_CA_HTLF.a.us/-3.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_HTLF.a.jp/-3.dds
+  - name: remastered/obj/P_EX100_CA_HTLF.a.de/-3.dds
+  - name: remastered/obj/P_EX100_CA_HTLF.a.es/-3.dds
+  - name: remastered/obj/P_EX100_CA_HTLF.a.bg/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_CA_ULTF.a.us/-10.dds
+  multi:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.jp/-10.dds
+  - name: remastered/obj/P_EX100_CA_ULTF.a.de/-10.dds
+  - name: remastered/obj/P_EX100_CA_ULTF.a.es/-10.dds
+  - name: remastered/obj/P_EX100_CA_ULTF.a.bg/-10.dds
+  package: kh2_sixth
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_ULTF.a.us/-10.dds
+
+- name: remastered/menu/shopface/p_ca100.bin/-0.png
+  method: copy
+  source:
+  - name: remastered/menu/shopface/p_ex100.bin/-0.dds
+
 - name: obj/P_EX100.mdlx
   multi:
   - name: obj/P_EX100_AL_CARPET.mdlx
@@ -462,3 +532,261 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
+
+
+# Textures
+
+- name: remastered/obj/P_EX100_CA.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA.mdlx/-2.dds
+- name: remastered/obj/P_EX100_CA.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA.mdlx/-3.dds
+- name: remastered/obj/P_EX100_CA.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA.mdlx/-4.dds
+- name: remastered/obj/P_EX100_CA_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_BTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_BTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA_BTLF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_BTLF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_CA_BTLF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_BTLF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_CA_BTLF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_BTLF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_CA_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_MAGF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_MAGF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA_MAGF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_MAGF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_CA_MAGF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_MAGF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_CA_MAGF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_MAGF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_CA_KH1F.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_KH1F.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_KH1F.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA_KH1F.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_KH1F.mdlx/-2.dds
+- name: remastered/obj/P_EX100_CA_KH1F.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_KH1F.mdlx/-3.dds
+- name: remastered/obj/P_EX100_CA_KH1F.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_KH1F.mdlx/-4.dds
+- name: remastered/obj/P_EX100_CA_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_TRIF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_TRIF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA_TRIF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_TRIF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_CA_TRIF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_TRIF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_CA_TRIF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_TRIF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_CA_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_ULTF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_ULTF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA_ULTF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_ULTF.mdlx/-2.dds
+- name: remastered/obj/P_EX100_CA_ULTF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_ULTF.mdlx/-3.dds
+- name: remastered/obj/P_EX100_CA_ULTF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_ULTF.mdlx/-4.dds
+- name: remastered/obj/P_EX100_CA_HTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_HTLF.mdlx/-0.dds
+- name: remastered/obj/P_EX100_CA_HTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_HTLF.mdlx/-1.dds
+- name: remastered/obj/P_EX100_CA_HTLF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/P_EX100_CA_HTLF.mdlx/-2.dds
+
+- name: remastered/obj/H_EX500_CA.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA.mdlx/-2.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_BTLF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_BTLF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_BTLF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_BTLF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_BTLF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_MAGF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_MAGF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_MAGF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_MAGF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_MAGF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_KH1F.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_KH1F.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_KH1F.mdlx/-2.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_KH1F.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_KH1F.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_TRIF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_TRIF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_TRIF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_TRIF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_TRIF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_ULTF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_ULTF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-2.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_ULTF.mdlx/-2.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_ULTF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/objects/piratesora/H_EX500_CA_ULTF.mdlx/-4.dds
+
